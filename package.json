@@ -1,9 +1,9 @@
 {
-  "name": "First-Project-React",
+  "name": "react-course-tarmeez",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Abdelrahman-Ayman-111.github.io/First_React_Project",
+  "homepage": "https://abdelrahman-ayman-111.github.io/First_React_Project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
