@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Abdelrahman-Ayman-111.github.io/Portfolio-With-React-Project",
+  "homepage": "https://Abdelrahman-Ayman-111.github.io/react-course-tarmeez",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
